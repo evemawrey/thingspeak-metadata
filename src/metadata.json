@@ -1,0 +1,12 @@
+{
+  "field1": {
+    "unit": "% RH",
+    "sensor": "DHT11",
+    "image": "https://cdn-shop.adafruit.com/970x728/386-00.jpg"
+  },
+  "field2": {
+    "unit": "°F",
+    "sensor": "DHT11",
+    "image": "https://cdn-shop.adafruit.com/970x728/386-00.jpg"
+  }
+}
