@@ -4,6 +4,8 @@ This example demonstrates the use of ThingSpeak's metadata capability to enrich 
 
 I will be enriching my temperature/humidity sensor channel (viewable with visualizations [here](https://thingspeak.com/channels/426924)) that has been collecting data in the MathWorks office and I will display the result using MATLAB Visualizations. The channel has two fields: humidity is recorded into field 1 and temperature into field 2.
 
+![Channel screenshot](./screenshot.png 'Channel screenshot')
+
 For an example of metadata's use in a completed project, check out the [Smart Humidity Sensor](https://www.hackster.io/matlab-iot/smart-humidity-sensor-thingspeak-matlab-and-ifttt-1a8495).
 
 ## How it's done
