@@ -1,4 +1,4 @@
-# MetaData in ThingSpeak
+# Metadata in ThingSpeak
 
 This example demonstrates the use of ThingSpeak's metadata capability to enrich a channel's fields with additional information. Metadata can be used to provide context to your data that is accessible from all the same places as the data and is easily configurable through your channel dashboard or the ThingSpeak API.
 
